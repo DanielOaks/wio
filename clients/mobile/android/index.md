@@ -5,6 +5,7 @@ summary: Partial listing of IRC clients for Android users.
 license: CC-BY-SA-4
 redirect_from:
   - /irchelp/clients/android/
+  - /irchelp/clients/mobile/android/
 ---
 
 # IRC Clients for Android

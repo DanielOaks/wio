@@ -5,6 +5,7 @@ layout: default
 license: CC-BY-SA-4
 redirect_from:
   - /irchelp/clients/ios/
+  - /irchelp/clients/mobile/ios/
 ---
 
 ## A word of warning about Apple's background app restrictions
